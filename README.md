@@ -11,7 +11,7 @@ A responsive hotel website demo built using HTML, CSS, and JavaScript.
 - Fast loading static site
 
 ## Live Demo
-https://inspiring-kheer-09618.netlify.app
+https://inspiring-kheer-09e618.netlify.app/
 
 ## Tech Stack
 - HTML
